@@ -1,0 +1,14 @@
+.footer-logo img {
+    filter: brightness(10000%);
+    /* Aplica un brillo alto para hacer la imagen completamente blanca */
+}
+
+footer {
+    margin-top: 8px;
+    display: flex;
+    line-height: 20px;
+}
+
+.red-social a {
+    display: inline-block;
+}
